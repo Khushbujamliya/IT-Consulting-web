@@ -26,7 +26,8 @@ This website was developed as part of an project to simulate a real-world IT con
 
   
 ## Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6527c1b-3e0f-4644-a63a-2da4552c17c2" />
+<img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/7a9442c3-10d7-4022-8d97-42dabadfd85f" />
+
 
 ---
 
@@ -57,4 +58,11 @@ project-root/
 * Add contact form with backend integration
 * Implement SEO optimization
 * Integrate blog or services section
+
+---
+
+## Developed By
+Khushbu Jamliya
+🔗 LinkedIn
+
 
